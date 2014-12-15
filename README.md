@@ -1,7 +1,7 @@
 Expect-BASH
 ===========
 
-Expect &amp; BASH for network automation
+Expect &amp; BASH for Cisco IOS automation. Configuration changes on multiple Switches/Routers at once.
 
 
 
